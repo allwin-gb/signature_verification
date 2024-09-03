@@ -10,7 +10,6 @@ from signature import match
 # Mach Threshold
 THRESHOLD = 80
 
-
 def browsefunc(ent):
     filename = askopenfilename(filetypes=([
         ("image", ".jpeg"),
